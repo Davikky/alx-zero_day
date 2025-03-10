@@ -1,0 +1,2 @@
+# Ignore all fines ending with ~ (Emacs backup files)
+*~
